@@ -5,10 +5,10 @@ int main()
 	char string[20];
 	char c;
 	
-	printf("¹®ÀÚ¿­ ÀÔ·Â : ");
+	printf("Â¹Â®Ã€ÃšÂ¿Â­ Ã€Ã”Â·Ã‚ : ");
 	scanf("%s", string);
 	c = getchar();
-	printf("¹®ÀÚ ÀÔ·Â : "); 
+	printf("Â¹Â®Ã€Ãš Ã€Ã”Â·Ã‚ : "); 
 	scanf("%c", &c);
 	
 	printf("%s\n", string);
@@ -18,4 +18,3 @@ int main()
 	return 0;
 }
 
-//plustag.tistory.com/1 
